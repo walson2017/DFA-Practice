@@ -1,0 +1,19 @@
+#logo{
+    height: 30px;
+}
+
+body{
+    background: lightblue;
+}
+
+#galleryRow{
+        padding: 2em;
+
+/*@media (max-width: 768ppx) {
+    #gallery{
+        margin-top: 0px;
+    }
+
+    
+    }
+}*/
